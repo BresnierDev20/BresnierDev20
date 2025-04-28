@@ -5,7 +5,7 @@
 
 ## 🧑‍💻 Sobre mí:
 Soy un programador iOS venezolano con experiencia en entornos híbridos, remotos y presenciales, trabajando en países como Venezuela, Uruguay, Colombia y Chile.  
-He desarrollado aplicaciones usando **Swift**, **Objective-C**, **Kotlin**, **Python**, **TypeScript** y frameworks como **React Native** y **Expo Router**.
+He desarrollado aplicaciones usando **Swift**, **Objective-C**, **Kotlin**, **TypeScript** y frameworks como **React Native** y **Expo Router**.
 
 Mi formación en **SOLID**, **Programación Orientada a Objetos (OOP)**, **Automatic Reference Counting (ARC)** y **Programación Asíncrona** me permite crear software eficiente y mantenible.  
 Me considero proactivo, autodidacta y siempre en búsqueda de nuevos retos y tecnologías.
